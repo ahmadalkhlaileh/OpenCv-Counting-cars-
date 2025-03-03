@@ -19,15 +19,3 @@ Saves the processed video (output_video.avi) with bounding boxes and detection l
 Displays the processed frames in real-time.
 Exit Condition:
 The program terminates when the Esc key (27) is pressed.
-Where to Place the Code in a GitHub Repository?
-This depends on the purpose of the repository:
-
-If this is a standalone project:
-
-Save the code in a separate file, e.g., vehicle_counter.py.
-Include the video file (tracking_3.avi) so others can test the script.
-Add a README.md file explaining how to run the script.
-If it is part of a larger project:
-
-Place it inside a subfolder, e.g., scripts/vehicle_tracking.py.
-Document its usage in the project's README.md.

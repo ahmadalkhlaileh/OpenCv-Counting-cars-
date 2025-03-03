@@ -2,7 +2,7 @@
 Code Explanation
 This code detects and tracks vehicles in a video using OpenCV. Here's a breakdown of how it works:
 
-Video Input: It loads a video file (tracking_3.avi) and processes each frame.
+Video Input: It loads a video file (....) and processes each frame.
 Motion Detection: It applies Background Subtraction to detect moving objects.
 Image Processing:
 Converts frames to grayscale.
